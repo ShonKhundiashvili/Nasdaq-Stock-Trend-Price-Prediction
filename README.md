@@ -8,6 +8,5 @@ Use of SKlearn library with KNN and Decision Tree models<br>
 Prediction of stock price trend as an increase or decrease<br>
 Resulting precision of 76%<br>
 
-# Presentation
-
+# Presentation of the project
 [Presentation.pdf](https://github.com/ShonKhundiashvili/Stock-Trend-Price-Prediction/files/10550281/Presentation.pdf)
